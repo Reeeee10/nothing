@@ -1,0 +1,37 @@
+<!DOCTYPE htlm>
+<head>
+<title>Something</title>
+</head>
+<h1>Ree Ink</h1>
+<ul>
+    <li>We will fix ant broken electronics or aplyansis for anyone even if they are not on any subscriptions.</li>
+    <li>We offer many veriaties os electronics, wifi, phone plans, and house hold apliencies. </li>
+</ul>
+<p>Here at Ree Ink, we care about the quality of the electronics and home apliancies you have in your house. So here at Ree Ink we offer you the top quality apliancis and electronics that are on the market. We will also offer you the best 5g wifi and the best phone plans anyone can offer. Down bellow are some of the phone plans we offer. We also have the best customer survice reps on the job. You will never get someone that will act like a Caren on the other side of the customer survice call.</p>
+<ul>
+    <li>Starting at $25 a month you can get any phone you want with unnlimited 5g wifi and hotspot, also unlimited text and talk.</li>
+    <li>Starting at $30 a mont you can get unlimited 5g wifi. Will even through in a free gaming councle of your choice.</li>
+</ul>
+<p>We have so many more offers than that. we offer aplinancis and electronics at lower prices than any electronic store or any home apliance store. We are even working on opening up a grocery store. We have several locations throught the United States and are hoping to start geting locations around the world in different countries. In some states we have opend up a car store, we hope that we can start opening up car stores in diferant parts of the United States and throught the world in different countries to. Down bellow we put a link for some free games for you to try out. We also put some random things donw ballow for you to learn. I hope you have the best experiance with out company. </p>
+<a href="https://www.coolmathgames.com/">Cool Math Games</a>
+<body>
+<h1>Bot</h1>
+<p>someone who is very bad at the game. someone who is bat at sonething. me and my family call eacho other this all the time for fun. you can all someone a bot for fun if you feel like it. if they play like a realy bad npc, then they are conciderd a bot. a bot is a little better than a noob because a noob is a new player to someone. if you are a bot, then you have a little experiance.</p>
+<h2>Noob</h2>
+<p>a noob is someone who is a new player to the game. someone who plays fortnite for the first time is considerd a noob. my brother calls me a noob all the time because he feels like is, so I call him a bot all the time. i think my brother is a bot and a noob.</p>
+<h3>Noob Nugget</h3>
+<p>a moob nugget is something my brother's freind made up over the summer when we were playing mincraft. my brother thinks that noob nugget is much better than bot nugget. I thik bot nugget is better because it just is.</p>
+<h4>Bot Nugget</h4>
+<p>a bot nugget is something I made up over the summer while I was playing fortnite. me and my brother playfuly fight over which is better a bot nugget or a moob nugget. I think that bot nugget is much better than noob nugget. my brother thinks nob nugget is better. </p>
+<h5>Burtin Guster</h5>
+<p>Burten gusteris someone from a tv show called psych. he is my moms favroit characters because he is the most funnyest character in the entier show. he works with someone named Shawn spenser. they both try to solve homisided around there area. </p>
+<h6>Wait for it</h6>
+<p>this is a line Shawn spenser said in the show. this is one of my famly's most favorit lines fron the show. our other favorit line form the show is "come'on sun." there are a lot of other good lines in the show, I just don't remamber them. </p>
+<ul>
+    <li>for any future questions, please cqall this number (715)-346-7812</li>
+    <li>Eau Claire WI, 54701, 2354 Mall dr.</li>
+    </ul>
+<a href="https://www.playstation.com/en-us/ps4/"</a><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.playstation.com%2Fen-us%2Fps4%2F&psig=AOvVaw1msWdztBtDDwv8iEZN5pDm&ust=1637529693570000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjMmNHvp_QCFQAAAAAdAAAAABAF" alt="playstation" Width=567 Hight=435/>
+<iframe width="320" Hight="240" src="https://www.youtube.com/watch?v=xzbitP0rk_o"></iframe>
+</body>
+</htlm>

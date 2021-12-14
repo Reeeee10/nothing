@@ -1,0 +1,35 @@
+<!DOCTYP htlm>
+    <head>
+        <title>Something</title>
+    </head>
+<body>
+    <iframe width="320" hight="240" scr="https://www.youtube.com/watch?v=xzbitP0rk_o"></iframe>
+    <h1>Chandler</h1>
+    <p>Chandler is the name of my dog who is my best friend in the entire world. He is also the name of a person from a T.V. show called Friends. He is the most adorable little thing on the entire planet.
+    <ul>
+        <li>He is the best doge anyone could ask for.</li>
+    </ul>
+    <h2>Something</h2>
+    <p>I didn't know what to put here, so I just put the word something here to fill in the space. The last time I made something like this, it was made for a company called Ree  Ink. Since the website was created, the store became more successful over the years.</p>   
+    <h3>I don't know</h3>
+    <p>I still didn't know what to put here, so I put the words I don't know. So, instead of not saying anything, I will tell you more about Ree Ink. (note: this is definitely not an advertisment for Ree Ink, definitely NOT an advertisment.) Ree Ink has the best quality for home appliances and gaming systems.</p>
+    <h4>Nothing</h4>
+    I don't have anything else to write down. Now lets talk some more about Ree Ink. We offer so many different things ranging from brand new washers and dryers to ps4's and ps5's. We also have people that can come over to your house to fix anything for you. 
+    <h5>Jello</h5>
+    <p>Jello is the name of my brothers cat. She is a black cat that makes us think she's had sugar. She likes to run all over the place at random points through out the day. Here's more about Ree Ink. We just added a part to the store where you can adopt any animal you want. If you want to adopt a panda, then you can adopt a panda. </p>
+    <ul>
+        <li>She is one of the most adorable and chunkiest cats anyone could ask for.</li>
+    </ul>
+    <h5>You're Sus</h5>
+    <p>This is a saying that people say when they play  Imposters in Fortnite or when they play Amoung us. There is one more thing about Ree Ink that I woulod like to share with you. You can get the fastest internet there is to offer and for lower prices than any other internet provider.</p>
+    <ul>
+        <li>One of the most comon sayings while playing Imposters.</li>
+    </ul>
+    <ul>
+        <li>Just in case you have any further questions, here's the number for the company: (715)-365-9182</li>
+        <li>Also, here's a gaming link just in case you want to play a game.</li>
+    </ul>
+<a href="https://www.coolmathgames.com/0-big-flappy-tower-tiny-square">cool math games</a>
+<a href="https://www.playstation.com/en-us/"</a><img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ign.com%2Fgames%2Fplaystation-5&psig=AOvVaw0p7FToXZ0DVGvuCicqJea_&ust=1638917742673000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDCwcii0PQCFQAAAAAdAAAAABAR" alt="playstation"
+</body> 
+</htlm>
